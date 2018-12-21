@@ -1,4 +1,4 @@
-# campus-bites-vue
+# campus-bites-test
 
 ## Project setup
 ```
